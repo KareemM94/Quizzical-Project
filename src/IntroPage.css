@@ -1,0 +1,34 @@
+.intro-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+.intro-header {
+    color: #293264;
+    font-size: 32px;
+    letter-spacing: 1px;
+}
+
+.intro-description{
+    color: #293264;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.intro-button {
+    background: #4D5B9E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 15px;
+    width: 192px;
+    cursor: pointer;
+    margin-top: 10px;
+}

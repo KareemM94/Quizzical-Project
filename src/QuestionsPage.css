@@ -1,0 +1,31 @@
+.submit_button {
+  background: #4d5b9e;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 15px;
+  width: 192px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.bottom_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.bottom_text > p {
+  color: #293264;
+  font-weight: 700;
+}
+
+.disabledBtn:hover {
+  pointer-events: none;
+}
